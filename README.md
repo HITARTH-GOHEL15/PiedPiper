@@ -29,17 +29,4 @@ MockMate is an intelligent, cross-platform interview simulator built with **Kotl
 | 🌐 Platforms | Android, iOS, Web, Desktop      |
 | 🎨 Design    | Animated components, Material 3 |
 
----
-
-## 📸 Screenshots
-
-| Onboarding | Interview | Feedback |
-|-----------|-----------|----------|
-| ![Onboarding](assets/screens/onboarding.png) | ![Interview](assets/screens/interview.png) | ![Feedback](assets/screens/feedback.png) |
-
-> 💡 *Supports light & dark mode across platforms*
-
----
-
-## 🚧 Project Structure
 
